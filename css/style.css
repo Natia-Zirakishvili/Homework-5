@@ -1,0 +1,95 @@
+.green-box {
+	background-color:#22B573;
+	width: 1286px;
+	height: 700px;
+}
+.navigation-ul {
+	font-size: 48px;
+	padding-left: 150px;
+	}
+.navigation-li {
+	font-family: 'Margarine', cursive;
+	float: left;
+	margin-right: 45px;
+	margin-top: 50px;
+}
+
+a {
+	color: white;
+	}
+.logo {
+	float: right;
+	padding-top: 50px;
+	padding-right: 60px;
+}
+
+header {
+	margin-bottom: 60px;
+}
+
+.clear {
+	clear: both;
+}
+
+.article1 {
+	width:600px; 
+	background-color: #FCEE21;
+	float: left;
+	margin-left: 30px;
+}
+
+.article2 {
+	width:600px; 
+	background-color: #FCEE21;
+	float: right;
+	margin-right: 30px;
+}
+
+.text {
+	font-family: "ALK Life", sans-serif;
+	font-size: 14px;
+	padding-top: 25px;
+	padding-left: 25px;
+	padding-right: 25px;
+	color: black;
+}
+
+.text2 {
+	font-family: "ALK Life", sans-serif;
+	font-size: 14px;
+	margin-top: 10px;
+	padding-right: 25px;
+	padding-left: 25px;
+	margin-bottom: 25px;
+	color: black;
+}
+
+.img1 {
+	width: 150px; 
+	float: right;
+	margin-top: 25px;
+	margin-right: 25px; 
+	margin-left: 15px; 
+	margin-bottom: 15px;
+}
+
+.img2 {
+	width: 150px;
+	float: left;
+	margin-top: 25px;
+	margin-left: 25px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+
+.boxes::after {
+	content:'';
+	clear: both;
+	display: block;
+}
+
+
+
+
+
+
