@@ -20,7 +20,7 @@ a {
 .logo {
 	float: right;
 	padding-top: 50px;
-	padding-right: 60px;
+	margin-right: 120px;
 }
 
 header {
@@ -31,14 +31,14 @@ header {
 	clear: both;
 }
 
-.article1 {
+.box1 {
 	width:600px; 
 	background-color: #FCEE21;
 	float: left;
 	margin-left: 30px;
 }
 
-.article2 {
+.box2 {
 	width:600px; 
 	background-color: #FCEE21;
 	float: right;
